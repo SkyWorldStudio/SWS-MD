@@ -2,13 +2,11 @@
 
 ---
 
-### S1 --> 123Pan
-### S2 --> 189Cloud
-### S3 --> Teambition
+### Locao Storage --> 国内服务器存储
 
 ---
 
-<strong><em>要提交其他的服务端？请<a href="mailto:contact@skyworldstudio.top" style="font-size:65px;">联系我们</strong></em></a><br>
+<strong><em>要提交其他的服务端？请<a href="mailto:heimnad@skyworldstudio.top" style="font-size:65px;">联系我们</strong></em></a><br>
 **注：以下服务端暂时不予上传**
 >    Paper
 >    Mohist

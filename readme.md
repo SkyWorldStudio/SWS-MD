@@ -3,7 +3,7 @@
 <span style="display:block;text-align:center;font-size:15px;">一个设计万能，创造万能的工作室</span>
 
 **更新时间**
-> 最近一次更新：2022/6/21
+> 最近一次更新：2022/10/18
 >
 > 更新人员： HeimNad
 ---
@@ -11,25 +11,14 @@
 **目录树**
 ```
 根目录
-├── AlphaRelease （工作室软件正式版发布）
-│   ├── MSS3
-│   └── MOS
-├── MSJM （我的世界部分服务端镜像）
-│   ├── S1
-│   │   ├── Vanilla
-│   │   ├── Spigot
-│   │   └── Bukkit
-│   ├── S2
-│   │   ├── Vanilla
-│   │   ├── Spigot
-│   │   └── Bukkit
-│   └── S3
-│       ├── Spigot
+├── SkyWorldStudio （工作室相关）
+│   └── MSS3
+├── MinecraftServerJar （我的世界部分服务端镜像）
+│   ├── Local Storage
 │       ├── Vanilla
+│       ├── Spigot
 │       └── Bukkit
-├── SWS （加密，工作室项目专用）
-├── 友链 （可以申请提交您的Alist链接，我们将作为友链加入至此）
-└── SoftwareRelease （工作室外开发者可将开发的软件加入到此处，方便您的用户进行下载。须在下方申请）
+└── SoftwareRelease （工作室外软件开发者可将开发的软件加入到此处，方便您的用户进行下载。须在下方申请）
     └── MOS
 ```
 
