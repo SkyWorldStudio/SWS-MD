@@ -2,7 +2,8 @@
 
 ---
 
-### Locao Storage --> 国内服务器存储
+### Locao Storage --> 自建国内服务器存储
+### 123Pan --> 123Pan存储
 
 ---
 
@@ -12,5 +13,3 @@
 >    Mohist
 >    Purpur
 >    Tuinity
-
----
