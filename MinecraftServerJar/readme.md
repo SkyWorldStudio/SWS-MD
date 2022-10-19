@@ -2,8 +2,9 @@
 
 ---
 
-### Locao Storage --> 自建国内服务器存储
+### LocalStorage --> 自建国内服务器存储
 ### 123Pan --> 123Pan存储
+### TianyiYun --> 天翼云盘存储
 
 ---
 
